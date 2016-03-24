@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7CDB102D1CA200570066B70D"
-               BuildableName = "ArrayCardPractice.app"
-               BlueprintName = "ArrayCardPractice"
-               ReferencedContainer = "container:ArrayCardPractice.xcodeproj">
+               BuildableName = "ExpenseCalculator.app"
+               BlueprintName = "ExpenseCalculator"
+               ReferencedContainer = "container:ExpenseCalculator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7CDB102D1CA200570066B70D"
-            BuildableName = "ArrayCardPractice.app"
-            BlueprintName = "ArrayCardPractice"
-            ReferencedContainer = "container:ArrayCardPractice.xcodeproj">
+            BuildableName = "ExpenseCalculator.app"
+            BlueprintName = "ExpenseCalculator"
+            ReferencedContainer = "container:ExpenseCalculator.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7CDB102D1CA200570066B70D"
-            BuildableName = "ArrayCardPractice.app"
-            BlueprintName = "ArrayCardPractice"
-            ReferencedContainer = "container:ArrayCardPractice.xcodeproj">
+            BuildableName = "ExpenseCalculator.app"
+            BlueprintName = "ExpenseCalculator"
+            ReferencedContainer = "container:ExpenseCalculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7CDB102D1CA200570066B70D"
-            BuildableName = "ArrayCardPractice.app"
-            BlueprintName = "ArrayCardPractice"
-            ReferencedContainer = "container:ArrayCardPractice.xcodeproj">
+            BuildableName = "ExpenseCalculator.app"
+            BlueprintName = "ExpenseCalculator"
+            ReferencedContainer = "container:ExpenseCalculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

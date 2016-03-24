@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7CDB102E1CA200570066B70D /* ArrayCardPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArrayCardPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7CDB102E1CA200570066B70D /* ExpenseCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExpenseCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CDB10311CA200570066B70D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7CDB10331CA200570066B70D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7CDB10361CA200570066B70D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		7CDB102F1CA200570066B70D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7CDB102E1CA200570066B70D /* ArrayCardPractice.app */,
+				7CDB102E1CA200570066B70D /* ExpenseCalculator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7CDB102D1CA200570066B70D /* ArrayCardPractice */ = {
+		7CDB102D1CA200570066B70D /* ExpenseCalculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7CDB10431CA200570066B70D /* Build configuration list for PBXNativeTarget "ArrayCardPractice" */;
+			buildConfigurationList = 7CDB10431CA200570066B70D /* Build configuration list for PBXNativeTarget "ExpenseCalculator" */;
 			buildPhases = (
 				7CDB102A1CA200570066B70D /* Sources */,
 				7CDB102B1CA200570066B70D /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = ArrayCardPractice;
+			name = ExpenseCalculator;
 			productName = ArrayCardPractice;
-			productReference = 7CDB102E1CA200570066B70D /* ArrayCardPractice.app */;
+			productReference = 7CDB102E1CA200570066B70D /* ExpenseCalculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,10 +99,11 @@
 				TargetAttributes = {
 					7CDB102D1CA200570066B70D = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 423NRX4Z43;
 					};
 				};
 			};
-			buildConfigurationList = 7CDB10291CA200570066B70D /* Build configuration list for PBXProject "ArrayCardPractice" */;
+			buildConfigurationList = 7CDB10291CA200570066B70D /* Build configuration list for PBXProject "ExpenseCalculator" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -115,7 +116,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7CDB102D1CA200570066B70D /* ArrayCardPractice */,
+				7CDB102D1CA200570066B70D /* ExpenseCalculator */,
 			);
 		};
 /* End PBXProject section */
@@ -253,10 +254,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = ArrayCardPractice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.celenahaase.ArrayCardPractice;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.celenahaase.ExpenseCalculator;
+				PRODUCT_NAME = ExpenseCalculator;
 			};
 			name = Debug;
 		};
@@ -264,17 +266,18 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = ArrayCardPractice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.celenahaase.ArrayCardPractice;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.celenahaase.ExpenseCalculator;
+				PRODUCT_NAME = ExpenseCalculator;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7CDB10291CA200570066B70D /* Build configuration list for PBXProject "ArrayCardPractice" */ = {
+		7CDB10291CA200570066B70D /* Build configuration list for PBXProject "ExpenseCalculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7CDB10411CA200570066B70D /* Debug */,
@@ -283,13 +286,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7CDB10431CA200570066B70D /* Build configuration list for PBXNativeTarget "ArrayCardPractice" */ = {
+		7CDB10431CA200570066B70D /* Build configuration list for PBXNativeTarget "ExpenseCalculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7CDB10441CA200570066B70D /* Debug */,
 				7CDB10451CA200570066B70D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
